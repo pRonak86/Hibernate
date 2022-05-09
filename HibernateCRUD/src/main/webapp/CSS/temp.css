@@ -1,0 +1,22 @@
+@charset "ISO-8859-1";
+
+body {
+	background: olive;
+	color: white;
+}
+
+h2 {
+	color: yellow;
+}
+
+table {
+	border-collapse: collapse;
+	width: 70%;
+}
+
+table, th, td {
+	padding:10px;
+	border: 1px solid black;
+	height: 100%;
+	text-align: center;
+}
